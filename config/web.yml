@@ -1,0 +1,3 @@
+port: 3030
+whitelisted_ips:
+  - 1.2.3.4
