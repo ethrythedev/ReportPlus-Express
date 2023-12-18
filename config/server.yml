@@ -1,0 +1,6 @@
+mysql: true
+db_host: localhost
+db_port: 3306
+db_database: reportplus
+db_username: root
+db_password: ''
