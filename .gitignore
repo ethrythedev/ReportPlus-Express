@@ -130,4 +130,5 @@ dist
 .pnp.*
 
 # extra config
+config/web.yml
 config/server.yml
