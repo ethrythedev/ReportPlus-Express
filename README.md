@@ -26,4 +26,4 @@ A license file is available in ./LICENSE
 This project uses [mc-heads.net](https://mc-heads.net/) for Minecraft heads and [playerdb.co](https://playerdb.co/) for user information (to get the player username from their UUID). The results from PlayerDB are cached to save bandwidth.
 
 ## Contact
-If you need help with this project, please contact me at @1.1.1.2 on Discord.
+If you need help with this project, feel free to [contact me](https://nohello.net/en/) at @1.1.1.2 on Discord.
