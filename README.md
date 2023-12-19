@@ -13,7 +13,7 @@ A web-based GUI for Report+
 
 ### Steps
 1. Download the latest release (or run `git clone https://github.com/ethrythedev/ReportPlus-Express.git`)
-2. Install the project with `pnpm install`
+2. Install the dependencies with `pnpm install`
 3. Change the configuration files in /config/ (you can configure the MySQL database connection in /config/server.yml and the web server in /config/web.yml)
 4. Run `node .`
 5. Once the server starts, you will be told what to change in your plugin config.yml file
