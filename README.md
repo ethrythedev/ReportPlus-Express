@@ -18,4 +18,4 @@ A web-based GUI for Report+
 4. Run `node .`
 5. Once the server starts, you will be told what to change in your plugin config.yml file
 6. After changing your ReportPlus plugin configuration file, run `/reportplus reload` in the console
-7. You can now view reports by running `/reports` in your Minecraft server.
+7. You can now view reports by running `/reports` in your Minecraft server and visiting the link shown in chat.
